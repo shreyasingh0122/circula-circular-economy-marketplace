@@ -4,7 +4,7 @@
 
 CIRCULA is a hackathon MVP for **SD-04 – Circular Economy Marketplace** under the **Sustainable Development** theme. It helps organizations discover, list, exchange, and measure the impact of reusable industrial materials.
 
-[View Presentation](SD-04-Circular_Economy_Marketplace__CIRCULA.pdfy)
+[View Presentation](SD-04-Circular_Economy_Marketplace__CIRCULA.pdf)
 
 ## Problem statement
 
