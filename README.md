@@ -4,7 +4,7 @@
 
 CIRCULA is a hackathon MVP for **SD-04 – Circular Economy Marketplace** under the **Sustainable Development** theme. It helps organizations discover, list, exchange, and measure the impact of reusable industrial materials.
 
-[View Presentation](SD-04 - Circular Economy Marketplace__CIRCULA.pdf)
+[View Presentation](SD-04-Circular_Economy_Marketplace__CIRCULA.pdfy)
 
 ## Problem statement
 
@@ -119,7 +119,7 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000).
+Open [http://localhost:3000]( http://localhost:3000).
 
 ### Quality and production commands
 
@@ -169,20 +169,20 @@ https://github.com/shreyasingh0122/circula-circular-economy-marketplace.git
 ### Authentication
    ![CIRCULA Sign-In](screenshot/sign_in.png)
 ### Landing page 
-   ![CIRCULA Langing page 1](screenshot/Landing_page 1.png)
-   ![CIRCULA Langing page 2](screenshot/Landing_page 2.png)
-   ![CIRCULA Langing page 3](screenshot/Landing_page 3.png)
+   ![CIRCULA Langing page 1](screenshot/Landing_page_1.png)
+   ![CIRCULA Langing page 2](screenshot/Landing_page_2.png)
+   ![CIRCULA Langing page 3](screenshot/Landing_page_3.png)
 ### Marketplace search/filter state
-   ![CIRCULA Marketplace 1](screenshot/Marketplace 1.png)
-   ![CIRCULA Marketplace 2](screenshot/Marketplace 2.png)
+   ![CIRCULA Marketplace 1](screenshot/Marketplace_1.png)
+   ![CIRCULA Marketplace 2](screenshot/Marketplace_2.png)
 ### AI-assisted classification demo result
    ![AI Classification](screenshot/AI_Classifier.png)
 ### Carbon impact dashboard and calculator
-   ![Carbon Impact page 1](screenshot/Impact 1.png)
-   ![Carbon Impact page 2](screenshot/Impact 2.png)
+   ![Carbon Impact page 1](screenshot/Impact_1.png)
+   ![Carbon Impact page 2](screenshot/Impact_2.png)
 ### Material listing form
-   ![Material Listing page 1](screenshot/Material_listing 1.png)
-   ![Material Listing page 2](screenshot/Material_listing 2.png)
+   ![Material Listing page 1](screenshot/Material_listing_1.png)
+   ![Material Listing page 2](screenshot/Material_listing_2.png)
 
 ## Future scope
 
@@ -204,4 +204,4 @@ https://github.com/shreyasingh0122/circula-circular-economy-marketplace.git
 
 ## Presentation
 
-[View Presentation](SD-04 - Circular Economy Marketplace__CIRCULA.pdf)
+[View Presentation](SD-04-Circular_Economy_Marketplace__CIRCULA.pdf)
