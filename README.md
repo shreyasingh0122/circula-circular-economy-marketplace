@@ -4,7 +4,7 @@
 
 CIRCULA is a hackathon MVP for **SD-04 – Circular Economy Marketplace** under the **Sustainable Development** theme. It helps organizations discover, list, exchange, and measure the impact of reusable industrial materials.
 
-[View Presentation](./CIRCULA-Presentation.pdf)
+[View Presentation](SD-04 - Circular Economy Marketplace__CIRCULA.pdf)
 
 ## Problem statement
 
@@ -85,7 +85,9 @@ The dashboard presents an example organization’s sustainability performance wi
 - **Charts:** Recharts
 - **Icons:** Lucide React
 - **Notifications:** Sonner
-- **Quality checks:** ESLint and TypeScript
+- **AI:** AI-assisted material classification demo (simulated/mock model output)
+- **Blockchain:** Blockchain-ready ownership/material passport abstraction (simulated in the current MVP)
+- **Quality Checks:** ESLint and TypeScript
 
 ## Architecture overview
 
@@ -145,7 +147,8 @@ LEDGER_API_URL=
 
 ## Live demo
 
-Run the app locally with `npm run dev`, then use this suggested judge journey:
+[Open CIRCULA Live Demo]
+(https://circula-circular-economy-marketplac-tau.vercel.app/)
 
 1. Explore the landing page and sustainability metrics.
 2. Open **Marketplace**, search/filter a material, and view its details.
@@ -156,22 +159,30 @@ Run the app locally with `npm run dev`, then use this suggested judge journey:
 
 ## GitHub repository
 
-Repository: add your public repository URL here before submission.
-
+[View CIRCULA Source]
 ```text
-https://github.com/<your-username>/<your-repository>
+https://github.com/shreyasingh0122/circula-circular-economy-marketplace.git
 ```
 
 ## Screenshots
 
-Add screenshots to this section before final submission. Suggested captures:
-
-- Landing page and sustainability statistics
-- Marketplace search/filter state
-- Material detail and ownership timeline
-- AI-assisted classification demo result
-- Carbon impact dashboard and calculator
-- Material listing form
+### Authentication
+   ![CIRCULA Sign-In](screenshot/sign_in.png)
+### Landing page 
+   ![CIRCULA Langing page 1](screenshot/Landing_page 1.png)
+   ![CIRCULA Langing page 2](screenshot/Landing_page 2.png)
+   ![CIRCULA Langing page 3](screenshot/Landing_page 3.png)
+### Marketplace search/filter state
+   ![CIRCULA Marketplace 1](screenshot/Marketplace 1.png)
+   ![CIRCULA Marketplace 2](screenshot/Marketplace 2.png)
+### AI-assisted classification demo result
+   ![AI Classification](screenshot/AI_Classifier.png)
+### Carbon impact dashboard and calculator
+   ![Carbon Impact page 1](screenshot/Impact 1.png)
+   ![Carbon Impact page 2](screenshot/Impact 2.png)
+### Material listing form
+   ![Material Listing page 1](screenshot/Material_listing 1.png)
+   ![Material Listing page 2](screenshot/Material_listing 2.png)
 
 ## Future scope
 
@@ -184,13 +195,13 @@ Add screenshots to this section before final submission. Suggested captures:
 - Add notifications, messaging, and exchange-status workflows
 
 ## Team
-
 | Name | Role |
-| --- | --- |
-| Add team member | Product / Engineering |
-| Add team member | Design / Research |
-| Add team member | Sustainability / Presentation |
+|---|---|
+| Shreya Singh | Product and Strategy |
+| Nandani Jaiswal | AI and Backend Development |
+| Priyanka Gupta | UI/UX Design |
+| Aaliya Fatima | Research, Documentation and Frontend |
 
 ## Presentation
 
-[View Presentation](./CIRCULA-Presentation.pdf)
+[View Presentation](SD-04 - Circular Economy Marketplace__CIRCULA.pdf)
